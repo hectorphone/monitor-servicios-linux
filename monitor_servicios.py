@@ -1,3 +1,5 @@
+# Monitor de servicios Linux - Proyecto de aprendizaje DevOps
+
 import subprocess
 import sys
 import logging
